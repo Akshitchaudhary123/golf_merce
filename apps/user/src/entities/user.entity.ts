@@ -1,23 +1,15 @@
+import { Entity, Column, PrimaryGeneratedColumn } from 'typeorm';
+import { Exclude } from 'class-transformer';
 
-import { Column, PrimaryGeneratedColumn, Entity, CreateDateColumn, UpdateDateColumn } from 'typeorm';
+enum UserStatus {
+    ACTIVE = 'active',
+    DELETED = 'deleted',
+}
 
-@Entity('users')
+@Entity()
 export class User {
-
     @PrimaryGeneratedColumn('uuid')
     id: string;
-
-    @Column({ unique: true })
-    email: string;
-
-    @Column({ unique: true })
-    phone: string;
-
-    @Column({ nullable: true })
-    countryCode: string;
-
-    @Column()
-    password: string;
 
     @Column({ nullable: true })
     firstName: string;
@@ -25,38 +17,47 @@ export class User {
     @Column({ nullable: true })
     lastName: string;
 
-    @Column({ nullable: false, unique: true })
+    @Column({ nullable: true })
     userName: string;
 
-    @Column({ type: 'varchar', nullable: true })
-    emailVerificationToken: string;
+    @Column({ unique: true, nullable: true })
+    email: string;
 
-    @Column({ type: 'timestamptz', nullable: true }) // PostgreSQL timestamp with timezone
-    emailTokenExpiry: Date | null;
+    @Column({ unique: true, nullable: true })
+    phone: string;
+
+    @Column({ unique: true, nullable: true })
+    countryCode: string;
+
+    @Column({ nullable: true })
+    @Exclude({ toPlainOnly: true }) // Exclude from JSON output for security
+    password: string;
 
     @Column({ default: false })
     isEmailVerified: boolean;
 
-    // @Column()
-    // status:string;
-    // enum:['active','delete'];
-    // default:'active'
+    @Column({ default: false })
+    isPhoneVerified: boolean;
+
+    @Column({ nullable: true })
+    emailVerificationToken: string;
+
+    @Column({ nullable: true })
+    emailTokenExpiry: Date;
 
     @Column({ nullable: true })
     phoneOtp: string;
 
     @Column({ nullable: true })
-    profileImage: string;
-
-    @Column({ type: 'timestamptz', nullable: true }) // PostgreSQL timestamp with timezone
     phoneOtpExpiry: Date;
 
-    @Column({ default: false })
-    isPhoneVerified: boolean;
+    @Column({ nullable: true })
+    profileImage: string;
 
-    @CreateDateColumn()
-    createdAt: Date;
-
-    @UpdateDateColumn()
-    updatedAt: Date;
+    @Column({
+        type: 'enum',
+        enum: UserStatus,
+        default: UserStatus.ACTIVE,
+    })
+    status: UserStatus;
 }

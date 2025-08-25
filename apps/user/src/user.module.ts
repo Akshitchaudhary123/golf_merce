@@ -4,6 +4,7 @@ import { TypeOrmModule } from '@nestjs/typeorm';
 import { UserService } from './user.service';
 import { UserController } from './user.controller';
 import { User } from './entities/user.entity';
+import { MailModule } from 'libs/mail/mail.module';
 
 @Module({
   imports: [
@@ -12,7 +13,7 @@ import { User } from './entities/user.entity';
       envFilePath: './apps/user/.env',
     }),
     TypeOrmModule.forRootAsync({
-      imports: [ConfigModule],
+      imports: [ConfigModule, MailModule],
       inject: [ConfigService],
       useFactory: (config: ConfigService) => ({
         type: 'postgres',
