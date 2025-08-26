@@ -1,0 +1,16 @@
+2025-08-26 21:05 +05:30: RangeError [ERR_SOCKET_BAD_PORT]: Port should be >= 0 and < 65536. Received type number (NaN).
+    at lookupAndConnect (node:net:1327:5)
+    at Socket.connect (node:net:1284:5)
+    at connect (node:net:250:17)
+    at D:\NEST_Projects\golf_merce_project\golf\node_modules\ioredis\built\connectors\StandaloneConnector.js:54:66
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11) {
+  code: 'ERR_SOCKET_BAD_PORT'
+}
+2025-08-26 21:05 +05:30: RangeError [ERR_SOCKET_BAD_PORT]: Port should be >= 0 and < 65536. Received type number (NaN).
+    at lookupAndConnect (node:net:1327:5)
+    at Socket.connect (node:net:1284:5)
+    at connect (node:net:250:17)
+    at D:\NEST_Projects\golf_merce_project\golf\node_modules\ioredis\built\connectors\StandaloneConnector.js:54:66
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11) {
+  code: 'ERR_SOCKET_BAD_PORT'
+}

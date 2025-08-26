@@ -1,0 +1,50 @@
+2025-08-25T22:23:11: (node:16300) ExperimentalWarning: `--experimental-loader` may be removed in the future; instead use `register()`:
+2025-08-25T22:23:11: --import 'data:text/javascript,import { register } from "node:module"; import { pathToFileURL } from "node:url"; register("ts-node/esm", pathToFileURL("./"));'
+2025-08-25T22:23:11: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-08-25T22:23:11: (node:16300) [DEP0180] DeprecationWarning: fs.Stats constructor is deprecated.
+2025-08-25T22:23:11: (Use `node --trace-deprecation ...` to show where the warning was created)
+2025-08-25T22:23:18: (node:2772) ExperimentalWarning: `--experimental-loader` may be removed in the future; instead use `register()`:
+2025-08-25T22:23:18: --import 'data:text/javascript,import { register } from "node:module"; import { pathToFileURL } from "node:url"; register("ts-node/esm", pathToFileURL("./"));'
+2025-08-25T22:23:18: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-08-25T22:23:18: (node:2772) [DEP0180] DeprecationWarning: fs.Stats constructor is deprecated.
+2025-08-25T22:23:18: (Use `node --trace-deprecation ...` to show where the warning was created)
+2025-08-25T22:23:26: (node:4872) ExperimentalWarning: `--experimental-loader` may be removed in the future; instead use `register()`:
+2025-08-25T22:23:26: --import 'data:text/javascript,import { register } from "node:module"; import { pathToFileURL } from "node:url"; register("ts-node/esm", pathToFileURL("./"));'
+2025-08-25T22:23:26: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-08-25T22:23:26: (node:4872) [DEP0180] DeprecationWarning: fs.Stats constructor is deprecated.
+2025-08-25T22:23:26: (Use `node --trace-deprecation ...` to show where the warning was created)
+2025-08-25T22:23:33: (node:2012) ExperimentalWarning: `--experimental-loader` may be removed in the future; instead use `register()`:
+2025-08-25T22:23:33: --import 'data:text/javascript,import { register } from "node:module"; import { pathToFileURL } from "node:url"; register("ts-node/esm", pathToFileURL("./"));'
+2025-08-25T22:23:33: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-08-25T22:23:33: (node:2012) [DEP0180] DeprecationWarning: fs.Stats constructor is deprecated.
+2025-08-25T22:23:33: (Use `node --trace-deprecation ...` to show where the warning was created)
+2025-08-25T22:23:41: (node:19524) ExperimentalWarning: `--experimental-loader` may be removed in the future; instead use `register()`:
+2025-08-25T22:23:41: --import 'data:text/javascript,import { register } from "node:module"; import { pathToFileURL } from "node:url"; register("ts-node/esm", pathToFileURL("./"));'
+2025-08-25T22:23:41: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-08-25T22:23:41: (node:19524) [DEP0180] DeprecationWarning: fs.Stats constructor is deprecated.
+2025-08-25T22:23:41: (Use `node --trace-deprecation ...` to show where the warning was created)
+2025-08-25T22:23:48: (node:18752) ExperimentalWarning: `--experimental-loader` may be removed in the future; instead use `register()`:
+2025-08-25T22:23:48: --import 'data:text/javascript,import { register } from "node:module"; import { pathToFileURL } from "node:url"; register("ts-node/esm", pathToFileURL("./"));'
+2025-08-25T22:23:48: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-08-25T22:23:48: (node:18752) [DEP0180] DeprecationWarning: fs.Stats constructor is deprecated.
+2025-08-25T22:23:48: (Use `node --trace-deprecation ...` to show where the warning was created)
+2025-08-25T22:23:56: (node:13636) ExperimentalWarning: `--experimental-loader` may be removed in the future; instead use `register()`:
+2025-08-25T22:23:56: --import 'data:text/javascript,import { register } from "node:module"; import { pathToFileURL } from "node:url"; register("ts-node/esm", pathToFileURL("./"));'
+2025-08-25T22:23:56: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-08-25T22:23:56: (node:13636) [DEP0180] DeprecationWarning: fs.Stats constructor is deprecated.
+2025-08-25T22:23:56: (Use `node --trace-deprecation ...` to show where the warning was created)
+2025-08-25T22:24:04: (node:9900) ExperimentalWarning: `--experimental-loader` may be removed in the future; instead use `register()`:
+2025-08-25T22:24:04: --import 'data:text/javascript,import { register } from "node:module"; import { pathToFileURL } from "node:url"; register("ts-node/esm", pathToFileURL("./"));'
+2025-08-25T22:24:04: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-08-25T22:24:04: (node:9900) [DEP0180] DeprecationWarning: fs.Stats constructor is deprecated.
+2025-08-25T22:24:04: (Use `node --trace-deprecation ...` to show where the warning was created)
+2025-08-25T22:24:11: (node:14828) ExperimentalWarning: `--experimental-loader` may be removed in the future; instead use `register()`:
+2025-08-25T22:24:11: --import 'data:text/javascript,import { register } from "node:module"; import { pathToFileURL } from "node:url"; register("ts-node/esm", pathToFileURL("./"));'
+2025-08-25T22:24:11: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-08-25T22:24:11: (node:14828) [DEP0180] DeprecationWarning: fs.Stats constructor is deprecated.
+2025-08-25T22:24:11: (Use `node --trace-deprecation ...` to show where the warning was created)
+2025-08-25T22:24:19: (node:14652) ExperimentalWarning: `--experimental-loader` may be removed in the future; instead use `register()`:
+2025-08-25T22:24:19: --import 'data:text/javascript,import { register } from "node:module"; import { pathToFileURL } from "node:url"; register("ts-node/esm", pathToFileURL("./"));'
+2025-08-25T22:24:19: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-08-25T22:24:19: (node:14652) [DEP0180] DeprecationWarning: fs.Stats constructor is deprecated.
+2025-08-25T22:24:19: (Use `node --trace-deprecation ...` to show where the warning was created)
