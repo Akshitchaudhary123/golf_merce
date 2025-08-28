@@ -10,8 +10,11 @@ import { MailModule } from 'libs/mail/mail.module';
   imports: [
     ConfigModule.forRoot({
       isGlobal: true,
-      envFilePath: './apps/user/.env',
+      envFilePath: '.env',
+
     }),
+
+
     TypeOrmModule.forRootAsync({
       imports: [ConfigModule, MailModule],
       inject: [ConfigService],

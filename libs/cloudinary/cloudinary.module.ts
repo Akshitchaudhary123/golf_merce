@@ -9,10 +9,11 @@ import { join } from 'path';
     imports: [
         ConfigModule.forRoot({
             isGlobal: true,
-            envFilePath: [
-                join(process.cwd(), '.env'),              // global env
-                join(process.cwd(), 'libs/.env'),  // service-specific env
-            ], // 👈 ensures .env vars are loaded globally
+            envFilePath: '.env'
+            // envFilePath: [
+            //     join(process.cwd(), '.env'),              // global env
+            //     join(process.cwd(), 'libs/.env'),  // service-specific env
+            // ],
         }),
     ],
     providers: [CloudinaryProvider, CloudinaryService],

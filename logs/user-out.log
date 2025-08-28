@@ -10,3 +10,267 @@
 2025-08-26 21:05 +05:30: [32m[Nest] 1860  - [39m26/08/2025, 9:05:44 pm [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mUserController {/users}:[39m[38;5;3m +5ms[39m
 2025-08-26 21:05 +05:30: [32m[Nest] 1860  - [39m26/08/2025, 9:05:44 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/users/create, POST} route[39m[38;5;3m +6ms[39m
 2025-08-26 21:05 +05:30: [32m[Nest] 1860  - [39m26/08/2025, 9:05:44 pm [32m    LOG[39m [38;5;3m[NestApplication] [39m[32mNest application successfully started[39m[38;5;3m +4ms[39m
+2025-08-26 22:13 +05:30: [32m[Nest] 7500  - [39m26/08/2025, 10:13:17 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:13 +05:30: [32m[Nest] 7500  - [39m26/08/2025, 10:13:17 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +23ms[39m
+2025-08-26 22:13 +05:30: [32m[Nest] 7500  - [39m26/08/2025, 10:13:17 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMailModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:13 +05:30: [32m[Nest] 7500  - [39m26/08/2025, 10:13:17 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:13 +05:30: [32m[Nest] 7500  - [39m26/08/2025, 10:13:17 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:13 +05:30: [32m[Nest] 7500  - [39m26/08/2025, 10:13:17 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:13 +05:30: [32m[Nest] 7500  - [39m26/08/2025, 10:13:23 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmCoreModule dependencies initialized[39m[38;5;3m +6103ms[39m
+2025-08-26 22:13 +05:30: [32m[Nest] 7500  - [39m26/08/2025, 10:13:23 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:13 +05:30: [32m[Nest] 7500  - [39m26/08/2025, 10:13:23 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mUserModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:13 +05:30: [32m[Nest] 7500  - [39m26/08/2025, 10:13:23 pm [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mUserController {/users}:[39m[38;5;3m +4ms[39m
+2025-08-26 22:13 +05:30: [32m[Nest] 7500  - [39m26/08/2025, 10:13:23 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/users/create, POST} route[39m[38;5;3m +6ms[39m
+2025-08-26 22:13 +05:30: [32m[Nest] 7500  - [39m26/08/2025, 10:13:23 pm [32m    LOG[39m [38;5;3m[NestApplication] [39m[32mNest application successfully started[39m[38;5;3m +4ms[39m
+2025-08-26 22:16 +05:30: [32m[Nest] 17640  - [39m26/08/2025, 10:16:35 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:16 +05:30: [32m[Nest] 17640  - [39m26/08/2025, 10:16:35 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +22ms[39m
+2025-08-26 22:16 +05:30: [32m[Nest] 17640  - [39m26/08/2025, 10:16:35 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMailModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:16 +05:30: [32m[Nest] 17640  - [39m26/08/2025, 10:16:35 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:16 +05:30: [32m[Nest] 17640  - [39m26/08/2025, 10:16:35 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:16 +05:30: [32m[Nest] 17640  - [39m26/08/2025, 10:16:35 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:16 +05:30: [32m[Nest] 17640  - [39m26/08/2025, 10:16:41 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmCoreModule dependencies initialized[39m[38;5;3m +5955ms[39m
+2025-08-26 22:16 +05:30: [32m[Nest] 17640  - [39m26/08/2025, 10:16:41 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:16 +05:30: [32m[Nest] 17640  - [39m26/08/2025, 10:16:41 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mUserModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:16 +05:30: [32m[Nest] 17640  - [39m26/08/2025, 10:16:41 pm [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mUserController {/users}:[39m[38;5;3m +9ms[39m
+2025-08-26 22:16 +05:30: [32m[Nest] 17640  - [39m26/08/2025, 10:16:41 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/users/create, POST} route[39m[38;5;3m +7ms[39m
+2025-08-26 22:16 +05:30: [32m[Nest] 17640  - [39m26/08/2025, 10:16:41 pm [32m    LOG[39m [38;5;3m[NestApplication] [39m[32mNest application successfully started[39m[38;5;3m +3ms[39m
+2025-08-26 22:22 +05:30: [32m[Nest] 3904  - [39m26/08/2025, 10:22:52 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:22 +05:30: [32m[Nest] 3904  - [39m26/08/2025, 10:22:52 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +25ms[39m
+2025-08-26 22:22 +05:30: [32m[Nest] 3904  - [39m26/08/2025, 10:22:52 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMailModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:22 +05:30: [32m[Nest] 3904  - [39m26/08/2025, 10:22:52 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:22 +05:30: [32m[Nest] 3904  - [39m26/08/2025, 10:22:52 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:22 +05:30: [32m[Nest] 3904  - [39m26/08/2025, 10:22:52 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:23 +05:30: [32m[Nest] 6348  - [39m26/08/2025, 10:23:22 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:23 +05:30: [32m[Nest] 6348  - [39m26/08/2025, 10:23:22 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +47ms[39m
+2025-08-26 22:23 +05:30: [32m[Nest] 6348  - [39m26/08/2025, 10:23:22 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMailModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:23 +05:30: [32m[Nest] 6348  - [39m26/08/2025, 10:23:22 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:23 +05:30: [32m[Nest] 6348  - [39m26/08/2025, 10:23:22 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:23 +05:30: [32m[Nest] 6348  - [39m26/08/2025, 10:23:22 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:23 +05:30: [32m[Nest] 16056  - [39m26/08/2025, 10:23:52 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:23 +05:30: [32m[Nest] 16056  - [39m26/08/2025, 10:23:52 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +27ms[39m
+2025-08-26 22:23 +05:30: [32m[Nest] 16056  - [39m26/08/2025, 10:23:52 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMailModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:23 +05:30: [32m[Nest] 16056  - [39m26/08/2025, 10:23:52 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:23 +05:30: [32m[Nest] 16056  - [39m26/08/2025, 10:23:52 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +3ms[39m
+2025-08-26 22:23 +05:30: [32m[Nest] 16056  - [39m26/08/2025, 10:23:52 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:24 +05:30: [32m[Nest] 14168  - [39m26/08/2025, 10:24:11 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:24 +05:30: [32m[Nest] 14168  - [39m26/08/2025, 10:24:11 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +23ms[39m
+2025-08-26 22:24 +05:30: [32m[Nest] 14168  - [39m26/08/2025, 10:24:11 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMailModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:24 +05:30: [32m[Nest] 14168  - [39m26/08/2025, 10:24:11 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:24 +05:30: [32m[Nest] 14168  - [39m26/08/2025, 10:24:11 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:24 +05:30: [32m[Nest] 14168  - [39m26/08/2025, 10:24:11 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:25 +05:30: [32m[Nest] 9300  - [39m26/08/2025, 10:25:17 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:25 +05:30: [32m[Nest] 9300  - [39m26/08/2025, 10:25:17 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +27ms[39m
+2025-08-26 22:25 +05:30: [32m[Nest] 9300  - [39m26/08/2025, 10:25:17 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMailModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:25 +05:30: [32m[Nest] 9300  - [39m26/08/2025, 10:25:17 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:25 +05:30: [32m[Nest] 9300  - [39m26/08/2025, 10:25:17 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:25 +05:30: [32m[Nest] 9300  - [39m26/08/2025, 10:25:17 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:25 +05:30: [32m[Nest] 12224  - [39m26/08/2025, 10:25:46 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:25 +05:30: [32m[Nest] 12224  - [39m26/08/2025, 10:25:46 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +32ms[39m
+2025-08-26 22:25 +05:30: [32m[Nest] 12224  - [39m26/08/2025, 10:25:46 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMailModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:25 +05:30: [32m[Nest] 12224  - [39m26/08/2025, 10:25:46 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:25 +05:30: [32m[Nest] 12224  - [39m26/08/2025, 10:25:46 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +2ms[39m
+2025-08-26 22:25 +05:30: [32m[Nest] 12224  - [39m26/08/2025, 10:25:46 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:26 +05:30: [32m[Nest] 2664  - [39m26/08/2025, 10:26:16 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:26 +05:30: [32m[Nest] 2664  - [39m26/08/2025, 10:26:16 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +25ms[39m
+2025-08-26 22:26 +05:30: [32m[Nest] 2664  - [39m26/08/2025, 10:26:16 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMailModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:26 +05:30: [32m[Nest] 2664  - [39m26/08/2025, 10:26:16 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:26 +05:30: [32m[Nest] 2664  - [39m26/08/2025, 10:26:16 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +2ms[39m
+2025-08-26 22:26 +05:30: [32m[Nest] 2664  - [39m26/08/2025, 10:26:16 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:26 +05:30: [32m[Nest] 6692  - [39m26/08/2025, 10:26:47 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:26 +05:30: [32m[Nest] 6692  - [39m26/08/2025, 10:26:47 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +28ms[39m
+2025-08-26 22:26 +05:30: [32m[Nest] 6692  - [39m26/08/2025, 10:26:47 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMailModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:26 +05:30: [32m[Nest] 6692  - [39m26/08/2025, 10:26:47 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:26 +05:30: [32m[Nest] 6692  - [39m26/08/2025, 10:26:47 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:26 +05:30: [32m[Nest] 6692  - [39m26/08/2025, 10:26:47 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:27 +05:30: [32m[Nest] 2308  - [39m26/08/2025, 10:27:08 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:27 +05:30: [32m[Nest] 2308  - [39m26/08/2025, 10:27:08 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +36ms[39m
+2025-08-26 22:27 +05:30: [32m[Nest] 2308  - [39m26/08/2025, 10:27:08 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMailModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:27 +05:30: [32m[Nest] 2308  - [39m26/08/2025, 10:27:08 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:27 +05:30: [32m[Nest] 2308  - [39m26/08/2025, 10:27:08 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:27 +05:30: [32m[Nest] 2308  - [39m26/08/2025, 10:27:08 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:27 +05:30: [32m[Nest] 9780  - [39m26/08/2025, 10:27:38 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:27 +05:30: [32m[Nest] 9780  - [39m26/08/2025, 10:27:38 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +27ms[39m
+2025-08-26 22:27 +05:30: [32m[Nest] 9780  - [39m26/08/2025, 10:27:38 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMailModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:27 +05:30: [32m[Nest] 9780  - [39m26/08/2025, 10:27:38 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:27 +05:30: [32m[Nest] 9780  - [39m26/08/2025, 10:27:38 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:27 +05:30: [32m[Nest] 9780  - [39m26/08/2025, 10:27:38 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:28 +05:30: [32m[Nest] 16448  - [39m26/08/2025, 10:28:09 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:28 +05:30: [32m[Nest] 16448  - [39m26/08/2025, 10:28:09 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +29ms[39m
+2025-08-26 22:28 +05:30: [32m[Nest] 16448  - [39m26/08/2025, 10:28:09 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMailModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:28 +05:30: [32m[Nest] 16448  - [39m26/08/2025, 10:28:09 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:28 +05:30: [32m[Nest] 16448  - [39m26/08/2025, 10:28:09 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:28 +05:30: [32m[Nest] 16448  - [39m26/08/2025, 10:28:09 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:28 +05:30: [32m[Nest] 13944  - [39m26/08/2025, 10:28:38 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:28 +05:30: [32m[Nest] 13944  - [39m26/08/2025, 10:28:38 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +24ms[39m
+2025-08-26 22:28 +05:30: [32m[Nest] 13944  - [39m26/08/2025, 10:28:38 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMailModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:28 +05:30: [32m[Nest] 13944  - [39m26/08/2025, 10:28:38 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:28 +05:30: [32m[Nest] 13944  - [39m26/08/2025, 10:28:38 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:28 +05:30: [32m[Nest] 13944  - [39m26/08/2025, 10:28:38 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:29 +05:30: [32m[Nest] 6092  - [39m26/08/2025, 10:29:08 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:29 +05:30: [32m[Nest] 6092  - [39m26/08/2025, 10:29:09 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +27ms[39m
+2025-08-26 22:29 +05:30: [32m[Nest] 6092  - [39m26/08/2025, 10:29:09 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMailModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:29 +05:30: [32m[Nest] 6092  - [39m26/08/2025, 10:29:09 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:29 +05:30: [32m[Nest] 6092  - [39m26/08/2025, 10:29:09 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:29 +05:30: [32m[Nest] 6092  - [39m26/08/2025, 10:29:09 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:29 +05:30: [32m[Nest] 17096  - [39m26/08/2025, 10:29:39 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:29 +05:30: [32m[Nest] 17096  - [39m26/08/2025, 10:29:39 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +25ms[39m
+2025-08-26 22:29 +05:30: [32m[Nest] 17096  - [39m26/08/2025, 10:29:39 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMailModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:29 +05:30: [32m[Nest] 17096  - [39m26/08/2025, 10:29:39 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:29 +05:30: [32m[Nest] 17096  - [39m26/08/2025, 10:29:39 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:29 +05:30: [32m[Nest] 17096  - [39m26/08/2025, 10:29:39 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:30 +05:30: [32m[Nest] 22172  - [39m26/08/2025, 10:30:09 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:30 +05:30: [32m[Nest] 22172  - [39m26/08/2025, 10:30:09 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +24ms[39m
+2025-08-26 22:30 +05:30: [32m[Nest] 22172  - [39m26/08/2025, 10:30:09 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMailModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:30 +05:30: [32m[Nest] 22172  - [39m26/08/2025, 10:30:09 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:30 +05:30: [32m[Nest] 22172  - [39m26/08/2025, 10:30:09 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:30 +05:30: [32m[Nest] 22172  - [39m26/08/2025, 10:30:09 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:30 +05:30: [32m[Nest] 7372  - [39m26/08/2025, 10:30:39 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:30 +05:30: [32m[Nest] 7372  - [39m26/08/2025, 10:30:39 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +23ms[39m
+2025-08-26 22:30 +05:30: [32m[Nest] 7372  - [39m26/08/2025, 10:30:39 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMailModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:30 +05:30: [32m[Nest] 7372  - [39m26/08/2025, 10:30:39 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:30 +05:30: [32m[Nest] 7372  - [39m26/08/2025, 10:30:39 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:30 +05:30: [32m[Nest] 7372  - [39m26/08/2025, 10:30:39 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:31 +05:30: [32m[Nest] 11084  - [39m26/08/2025, 10:31:09 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:31 +05:30: [32m[Nest] 11084  - [39m26/08/2025, 10:31:09 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +23ms[39m
+2025-08-26 22:31 +05:30: [32m[Nest] 11084  - [39m26/08/2025, 10:31:09 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMailModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:31 +05:30: [32m[Nest] 11084  - [39m26/08/2025, 10:31:09 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:31 +05:30: [32m[Nest] 11084  - [39m26/08/2025, 10:31:09 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:31 +05:30: [32m[Nest] 11084  - [39m26/08/2025, 10:31:09 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:31 +05:30: [32m[Nest] 7912  - [39m26/08/2025, 10:31:39 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:31 +05:30: [32m[Nest] 7912  - [39m26/08/2025, 10:31:39 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +27ms[39m
+2025-08-26 22:31 +05:30: [32m[Nest] 7912  - [39m26/08/2025, 10:31:39 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMailModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:31 +05:30: [32m[Nest] 7912  - [39m26/08/2025, 10:31:39 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:31 +05:30: [32m[Nest] 7912  - [39m26/08/2025, 10:31:39 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:31 +05:30: [32m[Nest] 7912  - [39m26/08/2025, 10:31:39 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:31 +05:30: [32m[Nest] 9152  - [39m26/08/2025, 10:31:52 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:31 +05:30: [32m[Nest] 9152  - [39m26/08/2025, 10:31:52 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +22ms[39m
+2025-08-26 22:31 +05:30: [32m[Nest] 9152  - [39m26/08/2025, 10:31:52 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMailModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:31 +05:30: [32m[Nest] 9152  - [39m26/08/2025, 10:31:52 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:31 +05:30: [32m[Nest] 9152  - [39m26/08/2025, 10:31:52 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:31 +05:30: [32m[Nest] 9152  - [39m26/08/2025, 10:31:52 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:32 +05:30: [32m[Nest] 2520  - [39m26/08/2025, 10:32:12 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:32 +05:30: [32m[Nest] 2520  - [39m26/08/2025, 10:32:12 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +26ms[39m
+2025-08-26 22:32 +05:30: [32m[Nest] 2520  - [39m26/08/2025, 10:32:12 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMailModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:32 +05:30: [32m[Nest] 2520  - [39m26/08/2025, 10:32:12 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:32 +05:30: [32m[Nest] 2520  - [39m26/08/2025, 10:32:12 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:32 +05:30: [32m[Nest] 2520  - [39m26/08/2025, 10:32:12 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:32 +05:30: [32m[Nest] 3212  - [39m26/08/2025, 10:32:43 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:32 +05:30: [32m[Nest] 3212  - [39m26/08/2025, 10:32:43 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +54ms[39m
+2025-08-26 22:32 +05:30: [32m[Nest] 3212  - [39m26/08/2025, 10:32:43 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMailModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:32 +05:30: [32m[Nest] 3212  - [39m26/08/2025, 10:32:43 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:32 +05:30: [32m[Nest] 3212  - [39m26/08/2025, 10:32:43 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:32 +05:30: [32m[Nest] 3212  - [39m26/08/2025, 10:32:43 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:33 +05:30: [32m[Nest] 12600  - [39m26/08/2025, 10:33:14 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:33 +05:30: [32m[Nest] 12600  - [39m26/08/2025, 10:33:14 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +37ms[39m
+2025-08-26 22:33 +05:30: [32m[Nest] 12600  - [39m26/08/2025, 10:33:14 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMailModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:33 +05:30: [32m[Nest] 12600  - [39m26/08/2025, 10:33:14 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:33 +05:30: [32m[Nest] 12600  - [39m26/08/2025, 10:33:14 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:33 +05:30: [32m[Nest] 12600  - [39m26/08/2025, 10:33:14 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:33 +05:30: [32m[Nest] 8032  - [39m26/08/2025, 10:33:44 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:33 +05:30: [32m[Nest] 8032  - [39m26/08/2025, 10:33:44 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +30ms[39m
+2025-08-26 22:33 +05:30: [32m[Nest] 8032  - [39m26/08/2025, 10:33:44 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMailModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:33 +05:30: [32m[Nest] 8032  - [39m26/08/2025, 10:33:44 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +3ms[39m
+2025-08-26 22:33 +05:30: [32m[Nest] 8032  - [39m26/08/2025, 10:33:44 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +2ms[39m
+2025-08-26 22:33 +05:30: [32m[Nest] 8032  - [39m26/08/2025, 10:33:44 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:34 +05:30: [32m[Nest] 8288  - [39m26/08/2025, 10:34:14 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:34 +05:30: [32m[Nest] 8288  - [39m26/08/2025, 10:34:14 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +27ms[39m
+2025-08-26 22:34 +05:30: [32m[Nest] 8288  - [39m26/08/2025, 10:34:14 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMailModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:34 +05:30: [32m[Nest] 8288  - [39m26/08/2025, 10:34:14 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:34 +05:30: [32m[Nest] 8288  - [39m26/08/2025, 10:34:14 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:34 +05:30: [32m[Nest] 8288  - [39m26/08/2025, 10:34:14 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:34 +05:30: [32m[Nest] 15228  - [39m26/08/2025, 10:34:47 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:34 +05:30: [32m[Nest] 15228  - [39m26/08/2025, 10:34:47 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +25ms[39m
+2025-08-26 22:34 +05:30: [32m[Nest] 15228  - [39m26/08/2025, 10:34:47 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMailModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:34 +05:30: [32m[Nest] 15228  - [39m26/08/2025, 10:34:47 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:34 +05:30: [32m[Nest] 15228  - [39m26/08/2025, 10:34:47 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:34 +05:30: [32m[Nest] 15228  - [39m26/08/2025, 10:34:47 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:35 +05:30: [32m[Nest] 18384  - [39m26/08/2025, 10:35:17 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:35 +05:30: [32m[Nest] 18384  - [39m26/08/2025, 10:35:17 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +63ms[39m
+2025-08-26 22:35 +05:30: [32m[Nest] 18384  - [39m26/08/2025, 10:35:17 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMailModule dependencies initialized[39m[38;5;3m +3ms[39m
+2025-08-26 22:35 +05:30: [32m[Nest] 18384  - [39m26/08/2025, 10:35:17 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:35 +05:30: [32m[Nest] 18384  - [39m26/08/2025, 10:35:17 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +2ms[39m
+2025-08-26 22:35 +05:30: [32m[Nest] 18384  - [39m26/08/2025, 10:35:17 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:35 +05:30: [32m[Nest] 14240  - [39m26/08/2025, 10:35:48 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:35 +05:30: [32m[Nest] 14240  - [39m26/08/2025, 10:35:48 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +28ms[39m
+2025-08-26 22:35 +05:30: [32m[Nest] 14240  - [39m26/08/2025, 10:35:48 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMailModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:35 +05:30: [32m[Nest] 14240  - [39m26/08/2025, 10:35:48 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:35 +05:30: [32m[Nest] 14240  - [39m26/08/2025, 10:35:48 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:35 +05:30: [32m[Nest] 14240  - [39m26/08/2025, 10:35:48 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:36 +05:30: [32m[Nest] 17332  - [39m26/08/2025, 10:36:18 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:36 +05:30: [32m[Nest] 17332  - [39m26/08/2025, 10:36:18 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +26ms[39m
+2025-08-26 22:36 +05:30: [32m[Nest] 17332  - [39m26/08/2025, 10:36:18 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMailModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:36 +05:30: [32m[Nest] 17332  - [39m26/08/2025, 10:36:18 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:36 +05:30: [32m[Nest] 17332  - [39m26/08/2025, 10:36:18 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:36 +05:30: [32m[Nest] 17332  - [39m26/08/2025, 10:36:18 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:36 +05:30: [32m[Nest] 14364  - [39m26/08/2025, 10:36:25 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:36 +05:30: [32m[Nest] 14364  - [39m26/08/2025, 10:36:25 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +25ms[39m
+2025-08-26 22:36 +05:30: [32m[Nest] 14364  - [39m26/08/2025, 10:36:25 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMailModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:36 +05:30: [32m[Nest] 14364  - [39m26/08/2025, 10:36:25 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:36 +05:30: [32m[Nest] 14364  - [39m26/08/2025, 10:36:25 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:36 +05:30: [32m[Nest] 14364  - [39m26/08/2025, 10:36:25 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:36 +05:30: [32m[Nest] 9080  - [39m26/08/2025, 10:36:56 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:36 +05:30: [32m[Nest] 9080  - [39m26/08/2025, 10:36:56 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +31ms[39m
+2025-08-26 22:36 +05:30: [32m[Nest] 9080  - [39m26/08/2025, 10:36:56 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMailModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:36 +05:30: [32m[Nest] 9080  - [39m26/08/2025, 10:36:56 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:36 +05:30: [32m[Nest] 9080  - [39m26/08/2025, 10:36:56 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:36 +05:30: [32m[Nest] 9080  - [39m26/08/2025, 10:36:56 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:37 +05:30: [32m[Nest] 5888  - [39m26/08/2025, 10:37:25 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:37 +05:30: [32m[Nest] 5888  - [39m26/08/2025, 10:37:25 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +23ms[39m
+2025-08-26 22:37 +05:30: [32m[Nest] 5888  - [39m26/08/2025, 10:37:25 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMailModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:37 +05:30: [32m[Nest] 5888  - [39m26/08/2025, 10:37:25 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:37 +05:30: [32m[Nest] 5888  - [39m26/08/2025, 10:37:25 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:37 +05:30: [32m[Nest] 5888  - [39m26/08/2025, 10:37:25 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:37 +05:30: [32m[Nest] 20540  - [39m26/08/2025, 10:37:56 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:37 +05:30: [32m[Nest] 20540  - [39m26/08/2025, 10:37:56 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +23ms[39m
+2025-08-26 22:37 +05:30: [32m[Nest] 20540  - [39m26/08/2025, 10:37:56 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMailModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:37 +05:30: [32m[Nest] 20540  - [39m26/08/2025, 10:37:56 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:37 +05:30: [32m[Nest] 20540  - [39m26/08/2025, 10:37:56 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:37 +05:30: [32m[Nest] 20540  - [39m26/08/2025, 10:37:56 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:38 +05:30: [32m[Nest] 11576  - [39m26/08/2025, 10:38:27 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:38 +05:30: [32m[Nest] 11576  - [39m26/08/2025, 10:38:27 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +34ms[39m
+2025-08-26 22:38 +05:30: [32m[Nest] 11576  - [39m26/08/2025, 10:38:27 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMailModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:38 +05:30: [32m[Nest] 11576  - [39m26/08/2025, 10:38:27 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:38 +05:30: [32m[Nest] 11576  - [39m26/08/2025, 10:38:27 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:38 +05:30: [32m[Nest] 11576  - [39m26/08/2025, 10:38:27 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:38 +05:30: [32m[Nest] 12196  - [39m26/08/2025, 10:38:57 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:38 +05:30: [32m[Nest] 12196  - [39m26/08/2025, 10:38:57 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +31ms[39m
+2025-08-26 22:38 +05:30: [32m[Nest] 12196  - [39m26/08/2025, 10:38:57 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMailModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:38 +05:30: [32m[Nest] 12196  - [39m26/08/2025, 10:38:57 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:38 +05:30: [32m[Nest] 12196  - [39m26/08/2025, 10:38:57 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:38 +05:30: [32m[Nest] 12196  - [39m26/08/2025, 10:38:57 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:39 +05:30: [32m[Nest] 9080  - [39m26/08/2025, 10:39:27 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:39 +05:30: [32m[Nest] 9080  - [39m26/08/2025, 10:39:27 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +24ms[39m
+2025-08-26 22:39 +05:30: [32m[Nest] 9080  - [39m26/08/2025, 10:39:27 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMailModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:39 +05:30: [32m[Nest] 9080  - [39m26/08/2025, 10:39:27 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:39 +05:30: [32m[Nest] 9080  - [39m26/08/2025, 10:39:27 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:39 +05:30: [32m[Nest] 9080  - [39m26/08/2025, 10:39:27 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:39 +05:30: [32m[Nest] 22240  - [39m26/08/2025, 10:39:57 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:39 +05:30: [32m[Nest] 22240  - [39m26/08/2025, 10:39:57 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +24ms[39m
+2025-08-26 22:39 +05:30: [32m[Nest] 22240  - [39m26/08/2025, 10:39:57 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMailModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:39 +05:30: [32m[Nest] 22240  - [39m26/08/2025, 10:39:57 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:39 +05:30: [32m[Nest] 22240  - [39m26/08/2025, 10:39:57 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:39 +05:30: [32m[Nest] 22240  - [39m26/08/2025, 10:39:57 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:40 +05:30: [32m[Nest] 17720  - [39m26/08/2025, 10:40:27 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:40 +05:30: [32m[Nest] 17720  - [39m26/08/2025, 10:40:27 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +25ms[39m
+2025-08-26 22:40 +05:30: [32m[Nest] 17720  - [39m26/08/2025, 10:40:27 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMailModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:40 +05:30: [32m[Nest] 17720  - [39m26/08/2025, 10:40:27 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:40 +05:30: [32m[Nest] 17720  - [39m26/08/2025, 10:40:27 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:40 +05:30: [32m[Nest] 17720  - [39m26/08/2025, 10:40:27 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:40 +05:30: [32m[Nest] 9964  - [39m26/08/2025, 10:40:56 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:40 +05:30: [32m[Nest] 9964  - [39m26/08/2025, 10:40:56 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +32ms[39m
+2025-08-26 22:40 +05:30: [32m[Nest] 9964  - [39m26/08/2025, 10:40:56 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMailModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:40 +05:30: [32m[Nest] 9964  - [39m26/08/2025, 10:40:56 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:40 +05:30: [32m[Nest] 9964  - [39m26/08/2025, 10:40:56 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +3ms[39m
+2025-08-26 22:40 +05:30: [32m[Nest] 9964  - [39m26/08/2025, 10:40:56 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:41 +05:30: [32m[Nest] 9288  - [39m26/08/2025, 10:41:26 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:41 +05:30: [32m[Nest] 9288  - [39m26/08/2025, 10:41:26 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +26ms[39m
+2025-08-26 22:41 +05:30: [32m[Nest] 9288  - [39m26/08/2025, 10:41:26 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMailModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:41 +05:30: [32m[Nest] 9288  - [39m26/08/2025, 10:41:26 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:41 +05:30: [32m[Nest] 9288  - [39m26/08/2025, 10:41:26 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:41 +05:30: [32m[Nest] 9288  - [39m26/08/2025, 10:41:26 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:41 +05:30: [32m[Nest] 7096  - [39m26/08/2025, 10:41:56 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:41 +05:30: [32m[Nest] 7096  - [39m26/08/2025, 10:41:56 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +25ms[39m
+2025-08-26 22:41 +05:30: [32m[Nest] 7096  - [39m26/08/2025, 10:41:56 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMailModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:41 +05:30: [32m[Nest] 7096  - [39m26/08/2025, 10:41:56 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:41 +05:30: [32m[Nest] 7096  - [39m26/08/2025, 10:41:57 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:41 +05:30: [32m[Nest] 7096  - [39m26/08/2025, 10:41:57 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m

@@ -1,9 +1,8 @@
 import { Injectable, Logger } from '@nestjs/common';
+import { ConfigService } from '@nestjs/config';
 import * as nodemailer from 'nodemailer';
 import { Queue } from 'bullmq';
 import { Redis } from 'ioredis';
-import * as dotenv from 'dotenv';
-import { join } from 'path';
 
 @Injectable()
 export class MailService {
@@ -11,25 +10,23 @@ export class MailService {
     private readonly transporter: nodemailer.Transporter;
     private readonly emailQueue: Queue;
 
-    constructor() {
-        // Load .env from libs/mail/ instead of root
-        dotenv.config({ path: join(__dirname, '../../.env') });
-
+    constructor(private readonly configService: ConfigService) {
         // Nodemailer transporter
         this.transporter = nodemailer.createTransport({
-            host: process.env.EMAIL_HOST,
-            port: Number(process.env.EMAIL_PORT),
-            secure: process.env.EMAIL_PORT === '465',
+            host: this.configService.get<string>('EMAIL_HOST'),
+            port: Number(this.configService.get<number>('EMAIL_PORT')),
+            secure: this.configService.get<string>('EMAIL_PORT') === '465',
             auth: {
-                user: process.env.NODEMAILER_EMAIL,
-                pass: process.env.NODEMAILER_PASSWORD,
+                user: this.configService.get<string>('NODEMAILER_EMAIL'),
+                pass: this.configService.get<string>('NODEMAILER_PASSWORD'),
             },
         });
 
         // Redis connection for queue
         const connection = new Redis({
-            host: process.env.REDIS_HOST,
-            port: Number(process.env.REDIS_PORT),
+            host: this.configService.get<string>('REDIS_HOST'),
+            port: Number(this.configService.get<number>('REDIS_PORT')),
+            password: this.configService.get<string>('REDIS_PASSWORD'), // if you need
         });
 
         this.emailQueue = new Queue('email-queue', { connection });
@@ -45,7 +42,7 @@ export class MailService {
     async sendEmail(to: string, subject: string, html: string) {
         try {
             await this.transporter.sendMail({
-                from: process.env.EMAIL_FROM,
+                from: this.configService.get<string>('EMAIL_FROM'),
                 to,
                 subject,
                 html,

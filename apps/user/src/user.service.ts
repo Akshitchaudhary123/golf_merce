@@ -54,12 +54,12 @@ export class UserService {
         // Generate new verification tokens/OTPs for the updated contact info
         if (email) {
           existingUser.emailVerificationToken = randomBytes(32).toString('hex');
-          existingUser.emailTokenExpiry = new Date(Date.now() + Number(process.env.EMAIL_TOKEN_EXPIRY || '15') * 60 * 1000);
+          existingUser.emailTokenExpiry = new Date(Date.now() + Number(process.env.EMAIL_TOKEN_EXPIRY || '5') * 60 * 1000);
         }
 
         if (phone) {
           existingUser.phoneOtp = (123456).toString(); // Use proper OTP generation in production
-          existingUser.phoneOtpExpiry = new Date(Date.now() + Number(process.env.EMAIL_TOKEN_EXPIRY || '15') * 60 * 1000);
+          existingUser.phoneOtpExpiry = new Date(Date.now() + Number(process.env.EMAIL_TOKEN_EXPIRY || '5') * 60 * 1000);
         }
 
         const updatedUser = await this.userRepository.save(existingUser);
@@ -77,10 +77,10 @@ export class UserService {
 
     // Generate verification tokens/OTPs
     const emailVerificationToken = email ? randomBytes(32).toString('hex') : undefined;
-    const emailTokenExpiry = email ? new Date(Date.now() + Number(process.env.EMAIL_TOKEN_EXPIRY || '15') * 60 * 1000) : undefined;
+    const emailTokenExpiry = email ? new Date(Date.now() + Number(process.env.EMAIL_TOKEN_EXPIRY || '5') * 60 * 1000) : undefined;
     let phoneOtp = phone ? Math.floor(100000 + Math.random() * 900000).toString() : undefined;
     phoneOtp = phone ? (123456).toString() : undefined; // Use proper OTP generation in production
-    const phoneOtpExpiry = phone ? new Date(Date.now() + Number(process.env.EMAIL_TOKEN_EXPIRY || '15') * 60 * 1000) : undefined;
+    const phoneOtpExpiry = phone ? new Date(Date.now() + Number(process.env.EMAIL_TOKEN_EXPIRY || '5') * 60 * 1000) : undefined;
 
     // Hash password
     const hashedPassword = await bcrypt.hash(password, 10);
@@ -135,7 +135,7 @@ export class UserService {
           `<h1>Hello ${user.firstName},</h1>
            <p>Please verify your email by clicking the link below:</p>
            <a href="${verificationUrl}">${verificationUrl}</a>
-           <p>This link will expire in ${process.env.EMAIL_TOKEN_EXPIRY || '15'} minutes.</p>`
+           <p>This link will expire in ${process.env.EMAIL_TOKEN_EXPIRY || '5'} minutes.</p>`
         );
       }
 
@@ -143,6 +143,8 @@ export class UserService {
       if (phone && user.phoneOtp) {
         // TODO: Implement SMS service integration
         // await this.smsService.sendOtp(user.phone, user.phoneOtp);
+
+
         console.log(`SMS OTP for ${user.phone}: ${user.phoneOtp}`);
       }
     } catch (error) {

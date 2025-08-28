@@ -9,3 +9,113 @@
 2025-08-26 21:05 +05:30: [32m[Nest] 1384  - [39m26/08/2025, 9:05:37 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/upload, POST} route[39m[38;5;3m +3ms[39m
 2025-08-26 21:05 +05:30: [32m[Nest] 1384  - [39m26/08/2025, 9:05:37 pm [32m    LOG[39m [38;5;3m[NestApplication] [39m[32mNest application successfully started[39m[38;5;3m +3ms[39m
 2025-08-26 21:05 +05:30: 🚀 Upload Server running at http://localhost:3002
+2025-08-26 22:13 +05:30: [32m[Nest] 12668  - [39m26/08/2025, 10:13:15 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:13 +05:30: Cloudinary ENV: dlfoizaoz
+2025-08-26 22:13 +05:30: [32m[Nest] 12668  - [39m26/08/2025, 10:13:15 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mCloudinaryModule dependencies initialized[39m[38;5;3m +17ms[39m
+2025-08-26 22:13 +05:30: [32m[Nest] 12668  - [39m26/08/2025, 10:13:15 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:13 +05:30: [32m[Nest] 12668  - [39m26/08/2025, 10:13:15 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:13 +05:30: [32m[Nest] 12668  - [39m26/08/2025, 10:13:15 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:13 +05:30: [32m[Nest] 12668  - [39m26/08/2025, 10:13:15 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mUploadModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:13 +05:30: [32m[Nest] 12668  - [39m26/08/2025, 10:13:15 pm [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mUploadController {/upload}:[39m[38;5;3m +4ms[39m
+2025-08-26 22:13 +05:30: [32m[Nest] 12668  - [39m26/08/2025, 10:13:15 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/upload, POST} route[39m[38;5;3m +3ms[39m
+2025-08-26 22:13 +05:30: [32m[Nest] 12668  - [39m26/08/2025, 10:13:15 pm [32m    LOG[39m [38;5;3m[NestApplication] [39m[32mNest application successfully started[39m[38;5;3m +2ms[39m
+2025-08-26 22:13 +05:30: 🚀 Upload Server running at http://localhost:3001
+2025-08-26 22:16 +05:30: [32m[Nest] 6040  - [39m26/08/2025, 10:16:33 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:16 +05:30: Cloudinary ENV: dlfoizaoz
+2025-08-26 22:16 +05:30: [32m[Nest] 6040  - [39m26/08/2025, 10:16:33 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mCloudinaryModule dependencies initialized[39m[38;5;3m +16ms[39m
+2025-08-26 22:16 +05:30: [32m[Nest] 6040  - [39m26/08/2025, 10:16:33 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:16 +05:30: [32m[Nest] 6040  - [39m26/08/2025, 10:16:33 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:16 +05:30: [32m[Nest] 6040  - [39m26/08/2025, 10:16:33 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:16 +05:30: [32m[Nest] 6040  - [39m26/08/2025, 10:16:33 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mUploadModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:16 +05:30: [32m[Nest] 6040  - [39m26/08/2025, 10:16:33 pm [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mUploadController {/upload}:[39m[38;5;3m +5ms[39m
+2025-08-26 22:16 +05:30: [32m[Nest] 6040  - [39m26/08/2025, 10:16:34 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/upload, POST} route[39m[38;5;3m +3ms[39m
+2025-08-26 22:16 +05:30: [32m[Nest] 6040  - [39m26/08/2025, 10:16:34 pm [32m    LOG[39m [38;5;3m[NestApplication] [39m[32mNest application successfully started[39m[38;5;3m +3ms[39m
+2025-08-26 22:16 +05:30: 🚀 Upload Server running at http://localhost:3001
+2025-08-26 22:22 +05:30: [32m[Nest] 12352  - [39m26/08/2025, 10:22:51 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:22 +05:30: Cloudinary ENV: dlfoizaoz
+2025-08-26 22:22 +05:30: [32m[Nest] 12352  - [39m26/08/2025, 10:22:51 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mCloudinaryModule dependencies initialized[39m[38;5;3m +13ms[39m
+2025-08-26 22:22 +05:30: [32m[Nest] 12352  - [39m26/08/2025, 10:22:51 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:22 +05:30: [32m[Nest] 12352  - [39m26/08/2025, 10:22:51 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:22 +05:30: [32m[Nest] 12352  - [39m26/08/2025, 10:22:51 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:22 +05:30: [32m[Nest] 12352  - [39m26/08/2025, 10:22:51 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mUploadModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:22 +05:30: [32m[Nest] 12352  - [39m26/08/2025, 10:22:51 pm [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mUploadController {/upload}:[39m[38;5;3m +3ms[39m
+2025-08-26 22:22 +05:30: [32m[Nest] 12352  - [39m26/08/2025, 10:22:51 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/upload, POST} route[39m[38;5;3m +4ms[39m
+2025-08-26 22:22 +05:30: [32m[Nest] 12352  - [39m26/08/2025, 10:22:51 pm [32m    LOG[39m [38;5;3m[NestApplication] [39m[32mNest application successfully started[39m[38;5;3m +2ms[39m
+2025-08-26 22:22 +05:30: 🚀 Upload Server running at http://localhost:3001
+2025-08-26 22:25 +05:30: [32m[Nest] 10144  - [39m26/08/2025, 10:25:16 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:25 +05:30: Cloudinary ENV: dlfoizaoz
+2025-08-26 22:25 +05:30: [32m[Nest] 10144  - [39m26/08/2025, 10:25:16 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mCloudinaryModule dependencies initialized[39m[38;5;3m +14ms[39m
+2025-08-26 22:25 +05:30: [32m[Nest] 10144  - [39m26/08/2025, 10:25:16 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:25 +05:30: [32m[Nest] 10144  - [39m26/08/2025, 10:25:16 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:25 +05:30: [32m[Nest] 10144  - [39m26/08/2025, 10:25:16 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:25 +05:30: [32m[Nest] 10144  - [39m26/08/2025, 10:25:16 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mUploadModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:25 +05:30: [32m[Nest] 10144  - [39m26/08/2025, 10:25:16 pm [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mUploadController {/upload}:[39m[38;5;3m +3ms[39m
+2025-08-26 22:25 +05:30: [32m[Nest] 10144  - [39m26/08/2025, 10:25:16 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/upload, POST} route[39m[38;5;3m +4ms[39m
+2025-08-26 22:25 +05:30: [32m[Nest] 10144  - [39m26/08/2025, 10:25:16 pm [32m    LOG[39m [38;5;3m[NestApplication] [39m[32mNest application successfully started[39m[38;5;3m +4ms[39m
+2025-08-26 22:25 +05:30: 🚀 Upload Server running at http://localhost:3001
+2025-08-26 22:27 +05:30: [32m[Nest] 19904  - [39m26/08/2025, 10:27:07 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:27 +05:30: Cloudinary ENV: dlfoizaoz
+2025-08-26 22:27 +05:30: [32m[Nest] 19904  - [39m26/08/2025, 10:27:07 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mCloudinaryModule dependencies initialized[39m[38;5;3m +21ms[39m
+2025-08-26 22:27 +05:30: [32m[Nest] 19904  - [39m26/08/2025, 10:27:07 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:27 +05:30: [32m[Nest] 19904  - [39m26/08/2025, 10:27:07 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:27 +05:30: [32m[Nest] 19904  - [39m26/08/2025, 10:27:07 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:27 +05:30: [32m[Nest] 19904  - [39m26/08/2025, 10:27:07 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mUploadModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:27 +05:30: [32m[Nest] 19904  - [39m26/08/2025, 10:27:07 pm [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mUploadController {/upload}:[39m[38;5;3m +3ms[39m
+2025-08-26 22:27 +05:30: [32m[Nest] 19904  - [39m26/08/2025, 10:27:07 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/upload, POST} route[39m[38;5;3m +4ms[39m
+2025-08-26 22:27 +05:30: [32m[Nest] 19904  - [39m26/08/2025, 10:27:07 pm [32m    LOG[39m [38;5;3m[NestApplication] [39m[32mNest application successfully started[39m[38;5;3m +3ms[39m
+2025-08-26 22:27 +05:30: 🚀 Upload Server running at http://localhost:3001
+2025-08-26 22:31 +05:30: [32m[Nest] 14320  - [39m26/08/2025, 10:31:51 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:31 +05:30: Cloudinary ENV: dlfoizaoz
+2025-08-26 22:31 +05:30: [32m[Nest] 14320  - [39m26/08/2025, 10:31:51 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mCloudinaryModule dependencies initialized[39m[38;5;3m +20ms[39m
+2025-08-26 22:31 +05:30: [32m[Nest] 14320  - [39m26/08/2025, 10:31:51 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:31 +05:30: [32m[Nest] 14320  - [39m26/08/2025, 10:31:51 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:31 +05:30: [32m[Nest] 14320  - [39m26/08/2025, 10:31:51 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:31 +05:30: [32m[Nest] 14320  - [39m26/08/2025, 10:31:51 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mUploadModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:31 +05:30: [32m[Nest] 14320  - [39m26/08/2025, 10:31:51 pm [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mUploadController {/upload}:[39m[38;5;3m +4ms[39m
+2025-08-26 22:31 +05:30: [32m[Nest] 14320  - [39m26/08/2025, 10:31:51 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/upload, POST} route[39m[38;5;3m +3ms[39m
+2025-08-26 22:31 +05:30: [32m[Nest] 14320  - [39m26/08/2025, 10:31:51 pm [32m    LOG[39m [38;5;3m[NestApplication] [39m[32mNest application successfully started[39m[38;5;3m +2ms[39m
+2025-08-26 22:31 +05:30: 🚀 Upload Server running at http://localhost:3001
+2025-08-26 22:32 +05:30: [32m[Nest] 7372  - [39m26/08/2025, 10:32:11 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:32 +05:30: Cloudinary ENV: dlfoizaoz
+2025-08-26 22:32 +05:30: [32m[Nest] 7372  - [39m26/08/2025, 10:32:11 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mCloudinaryModule dependencies initialized[39m[38;5;3m +18ms[39m
+2025-08-26 22:32 +05:30: [32m[Nest] 7372  - [39m26/08/2025, 10:32:11 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +2ms[39m
+2025-08-26 22:32 +05:30: [32m[Nest] 7372  - [39m26/08/2025, 10:32:11 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:32 +05:30: [32m[Nest] 7372  - [39m26/08/2025, 10:32:11 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:32 +05:30: [32m[Nest] 7372  - [39m26/08/2025, 10:32:11 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mUploadModule dependencies initialized[39m[38;5;3m +2ms[39m
+2025-08-26 22:32 +05:30: [32m[Nest] 7372  - [39m26/08/2025, 10:32:11 pm [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mUploadController {/upload}:[39m[38;5;3m +7ms[39m
+2025-08-26 22:32 +05:30: [32m[Nest] 7372  - [39m26/08/2025, 10:32:11 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/upload, POST} route[39m[38;5;3m +6ms[39m
+2025-08-26 22:32 +05:30: [32m[Nest] 7372  - [39m26/08/2025, 10:32:11 pm [32m    LOG[39m [38;5;3m[NestApplication] [39m[32mNest application successfully started[39m[38;5;3m +3ms[39m
+2025-08-26 22:32 +05:30: 🚀 Upload Server running at http://localhost:3001
+2025-08-26 22:34 +05:30: [32m[Nest] 5680  - [39m26/08/2025, 10:34:46 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:34 +05:30: Cloudinary ENV: dlfoizaoz
+2025-08-26 22:34 +05:30: [32m[Nest] 5680  - [39m26/08/2025, 10:34:46 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mCloudinaryModule dependencies initialized[39m[38;5;3m +16ms[39m
+2025-08-26 22:34 +05:30: [32m[Nest] 5680  - [39m26/08/2025, 10:34:46 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:34 +05:30: [32m[Nest] 5680  - [39m26/08/2025, 10:34:46 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:34 +05:30: [32m[Nest] 5680  - [39m26/08/2025, 10:34:46 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:34 +05:30: [32m[Nest] 5680  - [39m26/08/2025, 10:34:46 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mUploadModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:34 +05:30: [32m[Nest] 5680  - [39m26/08/2025, 10:34:46 pm [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mUploadController {/upload}:[39m[38;5;3m +4ms[39m
+2025-08-26 22:34 +05:30: [32m[Nest] 5680  - [39m26/08/2025, 10:34:46 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/upload, POST} route[39m[38;5;3m +3ms[39m
+2025-08-26 22:34 +05:30: [32m[Nest] 5680  - [39m26/08/2025, 10:34:46 pm [32m    LOG[39m [38;5;3m[NestApplication] [39m[32mNest application successfully started[39m[38;5;3m +4ms[39m
+2025-08-26 22:34 +05:30: 🚀 Upload Server running at http://localhost:3001
+2025-08-26 22:36 +05:30: [32m[Nest] 21520  - [39m26/08/2025, 10:36:24 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:36 +05:30: Cloudinary ENV: dlfoizaoz
+2025-08-26 22:36 +05:30: [32m[Nest] 21520  - [39m26/08/2025, 10:36:24 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mCloudinaryModule dependencies initialized[39m[38;5;3m +18ms[39m
+2025-08-26 22:36 +05:30: [32m[Nest] 21520  - [39m26/08/2025, 10:36:24 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:36 +05:30: [32m[Nest] 21520  - [39m26/08/2025, 10:36:24 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:36 +05:30: [32m[Nest] 21520  - [39m26/08/2025, 10:36:24 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:36 +05:30: [32m[Nest] 21520  - [39m26/08/2025, 10:36:24 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mUploadModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:36 +05:30: [32m[Nest] 21520  - [39m26/08/2025, 10:36:24 pm [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mUploadController {/upload}:[39m[38;5;3m +6ms[39m
+2025-08-26 22:36 +05:30: [32m[Nest] 21520  - [39m26/08/2025, 10:36:24 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/upload, POST} route[39m[38;5;3m +4ms[39m
+2025-08-26 22:36 +05:30: [32m[Nest] 21520  - [39m26/08/2025, 10:36:24 pm [32m    LOG[39m [38;5;3m[NestApplication] [39m[32mNest application successfully started[39m[38;5;3m +2ms[39m
+2025-08-26 22:36 +05:30: 🚀 Upload Server running at http://localhost:3001
+2025-08-26 22:37 +05:30: [32m[Nest] 22276  - [39m26/08/2025, 10:37:55 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+2025-08-26 22:37 +05:30: Cloudinary ENV: dlfoizaoz
+2025-08-26 22:37 +05:30: [32m[Nest] 22276  - [39m26/08/2025, 10:37:56 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mCloudinaryModule dependencies initialized[39m[38;5;3m +17ms[39m
+2025-08-26 22:37 +05:30: [32m[Nest] 22276  - [39m26/08/2025, 10:37:56 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:37 +05:30: [32m[Nest] 22276  - [39m26/08/2025, 10:37:56 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:37 +05:30: [32m[Nest] 22276  - [39m26/08/2025, 10:37:56 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+2025-08-26 22:37 +05:30: [32m[Nest] 22276  - [39m26/08/2025, 10:37:56 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mUploadModule dependencies initialized[39m[38;5;3m +0ms[39m
+2025-08-26 22:37 +05:30: [32m[Nest] 22276  - [39m26/08/2025, 10:37:56 pm [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mUploadController {/upload}:[39m[38;5;3m +4ms[39m
+2025-08-26 22:37 +05:30: [32m[Nest] 22276  - [39m26/08/2025, 10:37:56 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/upload, POST} route[39m[38;5;3m +4ms[39m
+2025-08-26 22:37 +05:30: [32m[Nest] 22276  - [39m26/08/2025, 10:37:56 pm [32m    LOG[39m [38;5;3m[NestApplication] [39m[32mNest application successfully started[39m[38;5;3m +2ms[39m
+2025-08-26 22:37 +05:30: 🚀 Upload Server running at http://localhost:3001

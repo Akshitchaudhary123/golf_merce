@@ -9,11 +9,26 @@ import { CloudinaryModule } from '../../../libs/cloudinary/cloudinary.module';
   imports: [
     ConfigModule.forRoot({
       isGlobal: true,
-      envFilePath: [
-        join(process.cwd(), '.env'),              // global env
-        join(process.cwd(), 'apps/upload/.env'),  // service-specific env
-      ],
+      envFilePath: __dirname + '/../../../.env', // go up 3 levels to golf/.env
+
+      // envFilePath: __dirname + '/../../../.env',
+
+      // envFilePath: '.env'
     }),
+
+    // envFilePath: [
+    //   join(process.cwd(), '.env'),              // global env
+    //   join(process.cwd(), 'apps/upload/.env'),  // service-specific env
+    // ],
+    // }),
+
+
+
+    // ConfigModule.forRoot({
+    //   isGlobal: true,
+    //   envFilePath: [__dirname + '/../.env', __dirname + '/../../../.env'],
+    // }),
+
     CloudinaryModule, // import cloudinary so service is available
   ],
   controllers: [UploadController], // register controller
